@@ -10,7 +10,7 @@ Once the player reaches the other side of the screen, the cars speed up, but the
 
 When the player turtle hits a car, then that is the game over.  
  
-### Working of game
+### Working of the game
 
 * A turtle moves forwards when the "Up" key is pressed and moves backwards when the "Down" key is pressed.
 
